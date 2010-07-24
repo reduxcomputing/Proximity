@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/22/trunk
+END
+AppController.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/22/trunk/AppController.m
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/15/trunk/main.m
+END
+AppIcon.icns
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/13/trunk/AppIcon.icns
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/21/trunk/Info.plist
+END
+inRange.png
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/15/trunk/inRange.png
+END
+inRangeAlt.png
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/15/trunk/inRangeAlt.png
+END
+outRange.png
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/15/trunk/outRange.png
+END
+outRangeAlt.png
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/15/trunk/outRangeAlt.png
+END
+Proximity_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/12/trunk/Proximity_Prefix.pch
+END
+AppController.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/15/trunk/AppController.h
+END
